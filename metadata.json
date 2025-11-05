@@ -1,0 +1,5 @@
+{
+  "name": "QAP PERMUTA",
+  "description": "A web application exclusively for military police officers of Rio de Janeiro (PMERJ) to buy, sell, trade items, and find opportunities for unit transfers (permuta).",
+  "requestFramePermissions": []
+}
